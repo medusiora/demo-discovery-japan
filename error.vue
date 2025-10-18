@@ -5,25 +5,25 @@
         class="relative z-10 flex h-full flex-col justify-center pl-[20vw] pt-[15vh] text-gray-800 dark:text-white"
       >
         <p
-          class="mt-4 font-source-code-pro uppercase text-gray-400 dark:text-gray-400"
+          class="font-source-code-pro mt-4 uppercase text-gray-400 dark:text-gray-400"
         >
           Oops! Looks like you've stumbled upon a digital dead end.
         </p>
         <p
-          class="mt-4 font-source-code-pro uppercase text-gray-400 dark:text-gray-400"
+          class="font-source-code-pro mt-4 uppercase text-gray-400 dark:text-gray-400"
         >
           Don't worry, though
         </p>
         <h1 class="text-8xl font-bold">
           We're
           <span
-            class="bg-black px-2 font-source-code-pro text-white dark:bg-white dark:text-black"
+            class="font-source-code-pro bg-black px-2 text-white dark:bg-white dark:text-black"
           >
             experts
           </span>
           at building <span class="text-gray-400"> paths </span> to
           <span
-            class="bg-black px-2 font-source-code-pro text-white dark:bg-white dark:text-black"
+            class="font-source-code-pro bg-black px-2 text-white dark:bg-white dark:text-black"
           >
             success
           </span>
@@ -36,21 +36,22 @@
         <p
           class="mt-12 flex items-center gap-1 text-gray-600 dark:text-gray-300"
         >
-          <UTooltip text="medusiora@github">
+          <UTooltip text="forwwward.solutions">
             <a
-              href="https://github.com/medusiora"
+              href="https://www.forwwward.solutions"
               target="_blank"
               rel="noopener noreferrer"
             >
               <div class="flex items-center gap-1">
+                <span class="sr-only">forwwward.solutions</span>
                 <UAvatar
-                  src="https://avatars.githubusercontent.com/u/38559820?v=4"
+                  src="https://www.forwwward.solutions/apple-icon-60x60.png"
                   alt="Avatar"
                 />
                 <span
                   class="bg-black px-2 text-white dark:bg-white dark:text-black"
                 >
-                  Medusiora
+                  forwwward.solutions
                 </span>
               </div>
             </a>
